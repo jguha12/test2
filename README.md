@@ -1,4 +1,4 @@
-This is a very interesting book about a little girl and her love for animals.
+This is an interesting book about a little girl and her love for animals.
 
 List:
 
