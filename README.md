@@ -1,6 +1,6 @@
-#Title: Black Beauty, Young Folks' Edition
+#Title: Black Beauty, Young Folks' Edition!
 
-##Author: Anna Sewell
+##Author: Anna Sewell!
 
 This is a very interesting book about a little girl and her love for animals.
 
