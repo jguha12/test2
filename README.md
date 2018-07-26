@@ -19,7 +19,7 @@ Content col 1 row 2 | Content col 2 row 2
 
 Here is a Perl sample
 
----
+```Perl
 use IxNetwork;
 # create an instance of the IxNet class
 my $ixNet = new IxNetwork();
@@ -38,4 +38,4 @@ $vport2 = $vports[1];
 $ixNet->setMultiAttribute($vport1, '-name', 'some name', '-portFilterIds', 'non existent attribute');
 $ixNet->commit();
 
-...
+```
