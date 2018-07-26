@@ -8,3 +8,10 @@ List:
 1. One
 2. Two
 3. Three
+
+Here is a table
+
+Column 1 | Column 2
+------------ | -------------
+Content col 1 row 1| Content col 2 row 1
+Content col 1 row 2 | Content col 2 row 2
