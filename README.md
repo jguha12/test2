@@ -19,7 +19,7 @@ Content col 1 row 2 | Content col 2 row 2
 
 Here is a Tcl sample
 
-```Tcl
+```Python
 puts "Welcome"
 puts "Adding 2 topologies"
 ixNet add [ixNet getRoot] topology -vports $vportTx
