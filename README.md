@@ -21,5 +21,9 @@ Here is a Tcl sample
 
 ```Tcl
 puts "Welcome"
+puts "Adding 2 topologies"
+ixNet add [ixNet getRoot] topology -vports $vportTx
+ixNet add [ixNet getRoot] topology -vports $vportRx
+ixNet commit
 
 ```
